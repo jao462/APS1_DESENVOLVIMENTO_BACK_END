@@ -179,6 +179,3 @@ Exemplo POST:
 - `404` — registro ou rota não encontrada.
 - `500` — erro interno ou erro de comunicação com o banco.
 
-## Observação
-
-O arquivo `.env` não deve ser enviado ao GitHub. Use `.env.example` como modelo.
